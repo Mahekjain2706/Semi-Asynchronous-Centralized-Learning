@@ -1,3 +1,3 @@
-# Semi Synchronous Centralized Learning
+# Semi Asynchronous Centralized Learning
 Research Intern project about federated learning , 
-semi-synchronous Centralized learning.
+semi-Asynchronous Centralized learning.
